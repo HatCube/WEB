@@ -7,7 +7,7 @@
 블루아카이브 - 키보토스 총력전 계산기
 카카오톡 봇 - ISAC
 
-```테스팅 텍스트박스
+```
 Syntax highlighted code block
 
 # Header 1

@@ -24,3 +24,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://imgur.com/a/q1izf7w)

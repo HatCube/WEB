@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 목도리담비의 개발 페이지 입니다.
 
-You can use the [editor on GitHub](https://github.com/HatCube/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+페이지는 github가 지원합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 진행중인 프로젝트
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+블루아카이브 - 키보토스 총력전 계산기
 
 ```markdown
 Syntax highlighted code block
